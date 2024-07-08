@@ -3,10 +3,11 @@ Job:
     - location
     - job type
     - description
-    - published at
+    - published_at
     - vacancy
     - category
     - experience
+    - salary
 
     - apply job
     - post job
